@@ -1,0 +1,3 @@
+https://drive.google.com/drive/folders/1PfXDyqAoLjTnqKwWH-y8e6dCydWdjPE2?usp=drive_link
+
+abrir proyecto en la terminal con el comando "ng serve --o"
